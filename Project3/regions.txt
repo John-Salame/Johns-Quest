@@ -1,0 +1,64 @@
+Gates of Entrana
+Thief
+Entrana Market
+1
+0
+~
+~
+
+Entrana Market
+Thief~Gang Member
+Gates of Entrana~Entrana Hospital~Entrana Barracks~Fields of Nesphos (Southern End)
+1 1 1 1
+1
+3 1 2 0 0
+knife~butcher knife~axe
+
+
+Entrana Hospital
+~
+Entrana Market
+1
+0
+~
+~
+
+Entrana Barracks
+Gang Member~Enforcer
+Entrana Market~Fields of Nesphos (Southern End)
+1 1
+1
+5 1 3 0 0
+sword~sword~axe~axe~King's Sword
+
+Fields of Nesphos (Southern End)
+Raider~Satyr~Nomad
+Entrana Market~Nomad Camp (Central Nesphos)
+2 3
+0
+~
+~
+
+Nomad Camp (Central Nesphos)
+~
+Fields of Nesphos (Southern End)~Fields of Nesphos (Northern End)
+1 1
+1
+3 3 4 0 0
+axe~magic flute~butcher knife
+
+Fields of Nesphos (Northern End)
+Raider~Nomad~Centaur
+Nomad Camp (Central Nesphos)~Falador
+3 3
+0
+~
+~
+
+Falador
+~
+Fields of Nesphos (Northern End)
+2
+1
+5 3 3 0 0
+sword~sword~longsword~longsword

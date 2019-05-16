@@ -1,0 +1,71 @@
+Thief
+4
+10
+1 1 2 1
+fist~knife
+
+Gang Member
+4
+10
+1 2 1 1
+fist~knife~butcher knife
+
+Enforcer
+6
+15
+2 1 1 2
+sword~butcher knife
+
+Gang Leader Armani
+14
+40
+2 2 1 1
+sword~axe
+
+Satyr
+8
+0
+1 1 3 2
+magic flute
+
+Raider
+8
+20
+2 2 2 1
+knife~sword~axe
+
+Nomad
+12
+0
+1 1 2 1
+butcher knife~axe
+
+Centaur
+12
+20
+3 2 3 2
+sword~axe
+
+Minotaur
+20
+10
+4 2 1 2
+axe
+
+Evil General
+15
+30
+3 3 2 2
+sword
+
+King Rolf
+30
+50
+2 2 1 3
+Hero's Bane
+
+Lynel
+20
+50
+8 4 6 3
+Hero's Bane

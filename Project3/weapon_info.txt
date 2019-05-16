@@ -1,0 +1,35 @@
+fist
+1
+0 0
+
+knife
+1
+5 3
+
+butcher knife
+2
+6 3
+
+axe
+2
+8 5
+
+sword
+2
+10 5
+
+King's Sword
+3
+200 20
+
+magic flute
+1
+15 10
+
+longsword
+3
+20 10
+
+Hero's Bane
+3
+80 60

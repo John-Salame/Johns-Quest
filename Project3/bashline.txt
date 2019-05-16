@@ -1,0 +1,2 @@
+g++ -std=c++11 -o runner Monster.cpp Player.cpp runner.cpp Weapon.cpp BattleManager.cpp Story.cpp Region.cpp Item.cpp Shop.cpp ValidInput.cpp Data.cpp TextFormat.cpp Inventory.cpp
+./runner
